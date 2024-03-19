@@ -50,4 +50,3 @@
 # print(num1, num2, num3) # 200 200 200
 # num4, num5 = 300, 400 # 동시 할당문
 # print(num4, num5) # 300 400
-
